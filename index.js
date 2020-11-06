@@ -1,3 +1,4 @@
+// Stock Market Portfolio App By Daniel Jere
 const express = require('express');
 const app = express();
 const exphbs = require('express-handlebars');
